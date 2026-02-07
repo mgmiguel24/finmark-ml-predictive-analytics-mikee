@@ -1,0 +1,91 @@
+Company_ID,Company_Name,Company_Profit,Address,missing_company_id,duplicate_company_id,referenced_in_transactions
+1,Tech  Enterprises  1,80701.0,"EDSA, Barangay 606, Pasig, Philippines",False,False,True
+2,Global  Partners  2,80511.0,"Commonwealth Ave, Barangay 789, Taguig, Philippines",False,False,True
+3,Quantum Associates 3,110664.0,"Roxas Blvd, Barangay 505, Pasig, Philippines",False,False,True
+4,Prime Network 4,,"Alabang-Zapote Rd, Barangay 202, Taguig, Philippines",False,False,True
+5,Elite  Ventures  5,69427.0,"Ayala Avenue, Barangay 101, Makati, Philippines",False,False,True
+7,Dynamic Solutions 7,36661.0,"Commonwealth Ave, Barangay 303, Pasig, Philippines",False,False,True
+9,Global Enterprises 9,96046.0,"Slex, barangay 123, pasig, philippines",False,False,True
+10,Pioneer Network 10,65200.0,"Katipunan Ave, Barangay 101, Mandaluyong, Philippines",False,False,True
+11,Dynamic Ventures 11,97442.0,"Ortigas Ave, Barangay 202, Quezon City, Philippines",False,False,True
+12,Quantum Network 12,91671.0,"Katipunan Ave, Barangay 123, Mandaluyong, Philippines",False,False,True
+13,Quantum  Enterprises  13,88168.0,"Taft Ave, Barangay 606, Makati, Philippines!",False,False,True
+15,Innovative Enterprises 15,111984.0,"Roxas Blvd, Barangay 456, Taguig, Philippines",False,False,True
+16,Green  Corp  16,67696.0,"Shaw Blvd, Barangay 707, Taguig, Philippines!",False,False,True
+17,Dynamic Solutions 17,100246.0,"Ayala avenue, brgy. 404, baguio, philippines",False,False,True
+19,Innovative Consulting 19,45583.0,"Ayala Avenue, Brgy. 101, Baguio, Philippines",False,False,True
+20,Pioneer Consulting 20,112720.0,"Ortigas ave, barangay 789, parañaque, philippines",False,False,True
+21,Dynamic Enterprises 21,,"Ortigas Ave, Barangay 707, Davao City, Philippines",False,False,True
+22,Sky Ent.s 22,54853.0,"SLEX, Barangay 202, Pasig, Philippines",False,False,True
+23,Prime Corp 23,,"Slex, barangay 505, manila, philippines",False,False,True
+24,Tech  Solutions  24,89757.0,"Alabang-Zapote Rd, Barangay 456, Mandaluyong, Philippines",False,False,True
+25,Green Holdings 25,36659.0,"Ortigas Ave, Barangay 606, Pasig, Philippines",False,False,True
+26,Tech Associates 26,31238.0,"Taft ave, brgy. 456, manila, philippines",False,False,True
+27,Elite Corp 27,45064.0,"SLEX, Brgy. 606, Pasig, Philippines",False,False,True
+29,Sky  Industries  29,61952.0,"Edsa, brgy. 606, makati, philippines!",False,False,True
+30,Quantum Holdings 30,35620.0,"EDSA, Barangay 789, Pasig, Philippines",False,False,True
+31,Sky Consulting 31,74258.0,"Ayala Avenue, Barangay 456, Mandaluyong, Philippines",False,False,True
+32,Prime  Consulting  32,34470.0,"Roxas blvd, barangay 505, quezon city, philippines",False,False,True
+33,Green  Consulting  33,52003.0,"Shaw blvd, barangay 707, mandaluyong, philippines!",False,False,True
+34,Pioneer Corp 34,57571.0,"Ortigas ave, barangay 707, makati, philippines",False,False,True
+35,Tech  Network  35,54668.0,"Roxas Blvd, Brgy. 123, Davao City, Philippines",False,False,True
+37,Prime Holdings 37,62046.0,"Katipunan Ave, Barangay 456, Mandaluyong, Philippines",False,False,True
+38,Sky Network 38,100977.0,"Commonwealth Ave, Barangay 202, Makati, Philippines",False,False,True
+39,Prime  Consulting  39,107255.0,"Ortigas Ave, Barangay 606, Davao City, Philippines",False,False,True
+41,Sky Partners 41,,"Ayala Avenue, Barangay 404, Pasig, Philippines",False,False,True
+42,Sky  Holdings  42,52233.0,"Ayala Avenue, Brgy. 101, Baguio, Philippines",False,False,True
+43,Quantum Network 43,113336.0,"Ortigas Ave, Barangay 404, Cebu City, Philippines",False,False,True
+44,Tech  Solutions  44,,"Ortigas ave, barangay 202, cebu city, philippines",False,False,True
+45,Prime Industries 45,99726.0,"Roxas Blvd, Barangay 404, Mandaluyong, Philippines",False,False,True
+46,Dynamic Ventures 46,93219.0,"SLEX, Barangay 789, Pasig, Philippines!",False,False,True
+47,Green  Industries  47,31130.0,"Taft Ave, Barangay 707, Mandaluyong, Philippines",False,False,True
+48,Global  Corp  48,,"Katipunan ave, barangay 101, cebu city, philippines",False,False,True
+49,Tech Holdings 49,115517.0,"Edsa, barangay 303, quezon city, philippines",False,False,True
+50,Sky Associates 50,32118.0,"Alabang-Zapote Rd, Brgy. 303, Baguio, Philippines",False,False,True
+51,Global  Holdings  51,30663.0,"Taft Ave, Barangay 456, Cebu City, Philippines",False,False,True
+53,Global Partners 53,,"Taft Ave, Barangay 123, Manila, Philippines!",False,False,True
+54,Innovative Network 54,111271.0,"Ortigas Ave, Barangay 202, Quezon City, Philippines",False,False,True
+55,Innovative Holdings 55,49158.0,"Slex, barangay 404, taguig, philippines",False,False,True
+56,Pioneer  Ent.s  56,61087.0,"EDSA, Barangay 404, Taguig, Philippines",False,False,True
+57,Pioneer Corp 57,118114.0,"Katipunan ave, barangay 456, parañaque, philippines",False,False,True
+58,Tech Ventures 58,83121.0,"Roxas Blvd, Brgy. 505, Pasig, Philippines",False,False,True
+59,Elite  Associates  59,49874.0,"EDSA, Barangay 404, Davao City, Philippines",False,False,True
+60,Global Ventures 60,113443.0,"Katipunan ave, barangay 101, parañaque, philippines",False,False,True
+61,Global Solutions 61,70821.0,"Shaw Blvd, Barangay 505, Pasig, Philippines",False,False,True
+62,Quantum Solutions 62,90582.0,"Shaw Blvd, Barangay 707, Baguio, Philippines!",False,False,True
+63,Tech Corp 63,52787.0,"Alabang-zapote rd, barangay 606, pasig, philippines",False,False,True
+64,Sky Consulting 64,94703.0,"Ortigas Ave, Barangay 202, Mandaluyong, Philippines",False,False,True
+65,Tech Associates 65,51705.0,"Ortigas ave, barangay 404, parañaque, philippines",False,False,True
+66,Sky Ent.s 66,99381.0,"SLEX, Barangay 202, Parañaque, Philippines",False,False,True
+67,Quantum Associates 67,74653.0,"Shaw Blvd, Barangay 202, Manila, Philippines",False,False,True
+68,Innovative  Solutions  68,112018.0,"Katipunan ave, barangay 101, taguig, philippines",False,False,True
+69,Global Solutions 69,116217.0,"Ayala Avenue, Barangay 505, Quezon City, Philippines",False,False,True
+70,Prime Network 70,62252.0,"Alabang-Zapote Rd, Barangay 456, Baguio, Philippines",False,False,True
+71,Prime Associates 71,103332.0,"EDSA, Brgy. 303, Parañaque, Philippines",False,False,True
+72,Global Corp 72,102799.0,"EDSA, Barangay 303, Cebu City, Philippines",False,False,True
+73,Dynamic  Ventures  73,92185.0,"Alabang-Zapote Rd, Barangay 707, Cebu City, Philippines",False,False,True
+75,Green Industries 75,71538.0,"Commonwealth ave, barangay 123, parañaque, philippines",False,False,True
+76,Tech Ventures 76,,"Commonwealth Ave, Barangay 202, Cebu City, Philippines",False,False,True
+77,Prime Consulting 77,110398.0,"Alabang-Zapote Rd, Barangay 456, Manila, Philippines",False,False,True
+78,Innovative Partners 78,71232.0,"Roxas Blvd, Barangay 123, Pasig, Philippines",False,False,True
+79,Sky Ventures 79,83106.0,"Alabang-Zapote Rd, Barangay 505, Parañaque, Philippines",False,False,True
+80,Green  Partners  80,111227.0,"Commonwealth Ave, Barangay 202, Manila, Philippines",False,False,True
+81,Elite Enterprises 81,83079.0,"Katipunan Ave, Barangay 303, Taguig, Philippines",False,False,True
+82,Prime Industries 82,55028.0,"Commonwealth Ave, Barangay 707, Pasig, Philippines",False,False,True
+83,Tech  Enterprises  83,72135.0,"Ayala Avenue, Brgy. 707, Baguio, Philippines",False,False,True
+84,Green  Solutions  84,,"SLEX, Barangay 456, Taguig, Philippines",False,False,True
+85,Green Ventures 85,113470.0,"EDSA, Barangay 707, Cebu City, Philippines",False,False,True
+86,Pioneer Solutions 86,50910.0,"Alabang-Zapote Rd, Barangay 789, Baguio, Philippines",False,False,True
+87,Tech  Ventures  87,37141.0,"Alabang-Zapote Rd, Barangay 505, Quezon City, Philippines",False,False,True
+88,Elite Consulting 88,75950.0,"EDSA, Barangay 456, Taguig, Philippines",False,False,True
+89,Global Solutions 89,,"Ayala avenue, barangay 101, taguig, philippines",False,False,True
+90,Prime Holdings 90,46225.0,"EDSA, Barangay 202, Parañaque, Philippines",False,False,True
+91,Tech Industries 91,117123.0,"Katipunan Ave, Barangay 123, Mandaluyong, Philippines",False,False,True
+92,Innovative  Corp  92,62959.0,"Taft ave, barangay 202, baguio, philippines",False,False,True
+93,Innovative Holdings 93,79192.0,"EDSA, Barangay 789, Davao City, Philippines",False,False,True
+94,Pioneer Associates 94,109711.0,"Commonwealth Ave, Brgy. 202, Cebu City, Philippines!",False,False,True
+95,Green Network 95,40051.0,"Alabang-Zapote Rd, Barangay 789, Pasig, Philippines",False,False,True
+96,Dynamic  Network  96,101428.0,"Alabang-Zapote Rd, Brgy. 456, Cebu City, Philippines",False,False,True
+97,Quantum Holdings 97,33449.0,"EDSA, Barangay 789, Manila, Philippines",False,False,True
+98,Pioneer Ventures 98,71095.0,"Roxas Blvd, Barangay 123, Taguig, Philippines",False,False,True
+100,Global Solutions 100,,"Ayala avenue, barangay 456, taguig, philippines",False,False,True

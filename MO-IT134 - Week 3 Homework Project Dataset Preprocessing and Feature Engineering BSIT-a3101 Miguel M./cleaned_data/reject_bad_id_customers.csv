@@ -1,0 +1,11 @@
+Company_ID,Company_Name,Company_Profit,Address,missing_company_id,duplicate_company_id,referenced_in_transactions
+,Elite Network 6,36967.0,"Katipunan Ave, Barangay 707, Davao City, Philippines",True,True,False
+,Green Enterprises 8,107952.0,"Roxas blvd, barangay 404, manila, philippines",True,True,False
+,Quantum  Holdings  14,78322.0,"Roxas Blvd, Barangay 101, Parañaque, Philippines",True,True,False
+,Sky Network 18,68892.0,"Katipunan Ave, Barangay 707, Cebu City, Philippines",True,True,False
+,Global Holdings 28,61115.0,"Katipunan Ave, Brgy. 303, Taguig, Philippines",True,True,False
+,Pioneer Network 36,107259.0,"Taft Ave, Barangay 123, Pasig, Philippines",True,True,False
+,Innovative Holdings 40,35397.0,"Slex, brgy. 202, manila, philippines",True,True,False
+,Innovative  Industries  52,92408.0,"Roxas Blvd, Brgy. 303, Quezon City, Philippines",True,True,False
+,Quantum Solutions 74,,"Commonwealth ave, barangay 404, davao city, philippines",True,True,False
+,Elite Corp 99,107929.0,"Alabang-Zapote Rd, Barangay 303, Makati, Philippines",True,True,False

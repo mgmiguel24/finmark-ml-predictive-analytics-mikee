@@ -1,0 +1,19 @@
+Product_ID,Product_Name,Product_Price,missing_product_id,duplicate_product_id,referenced_in_transactions
+1,FinPredictor Suite,"?140,000",False,False,True
+2,MarketMinder Analytics,"?168,000",False,False,True
+3,TrendWise Forecaster,"?100,800",False,False,True
+4,CustomerScope Insights,"?123,200",False,False,True
+5,SalesSync Optimizer,"?84,000",False,False,True
+6,RevenueVue Dashboard,"?179,200",False,False,True
+7,DataBridge Integration Tool,"?151,200",False,False,True
+9,Product 9,"?112,000",False,False,True
+10,SegmentX Targeting,"?89,600",False,False,True
+11,OptiFlow Automation,"?156,800",False,False,True
+12,BudgetMaster Pro,"?84,000",False,False,True
+13,ForecastXcelerator ,"?196,000",False,False,True
+14,InsightMax Insights Platform,"?128,800",False,False,True
+15,NexGen Segmentator,"?100,800",False,False,True
+17,RealTime Revenue,"?168,000",False,False,True
+18,DashSync Analytics Hub,"?134,400",False,False,True
+19,EcoNomix Modeler,"?95,200",False,False,True
+20,FinSphere Intelligence Suite,"?224,000",False,False,True
